@@ -1,0 +1,2 @@
+pytenable
+python-dotenv
